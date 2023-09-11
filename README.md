@@ -27,10 +27,10 @@ Using one hot encode, encode the categorical values
 ### STEP 5:
 Split the data into train and test .Build the convolutional neural network model
 
-### STEP 7:
+### STEP 6:
 Train the model with the training data.Plot the performance plot
 
-### STEP 9:
+### STEP 7:
 Evaluate the model with the testing data.Fit the model and predict the single input
 
 ## PROGRAM
